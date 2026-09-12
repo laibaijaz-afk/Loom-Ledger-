@@ -1,0 +1,501 @@
+OrderID,Client,DeptID,OrderDate,DueDate,QuantityOrdered,Status
+ORD0001,Zara Sourcing Order,6,2025-03-16,2025-04-20,3374,Delayed
+ORD0002,Next PLC Order,2,2024-06-26,2024-07-08,5034,Completed
+ORD0003,Decathlon Order,6,2024-05-07,2024-05-28,1779,Completed
+ORD0004,Zara Sourcing Order,6,2025-06-28,2025-08-08,4306,Delayed
+ORD0005,Local Wholesale - Lahore,1,2025-08-24,2025-09-24,2074,Completed
+ORD0006,H&M Sourcing Order,4,2024-06-28,2024-08-12,3182,Cancelled
+ORD0007,Decathlon Order,1,2024-06-11,2024-07-14,5202,Completed
+ORD0008,Decathlon Order,2,2024-03-27,2024-05-10,5855,Completed
+ORD0009,Decathlon Order,6,2025-02-11,2025-03-20,3474,Completed
+ORD0010,Decathlon Order,6,2025-10-28,2025-11-26,695,Completed
+ORD0011,Interloop B2B Order,6,2024-06-18,2024-07-14,1742,Delayed
+ORD0012,Al-Karam Textiles Buyer,2,2024-07-02,2024-08-13,562,Cancelled
+ORD0013,Next PLC Order,3,2025-02-10,2025-02-22,2704,Completed
+ORD0014,Al-Karam Textiles Buyer,2,2024-11-02,2024-12-04,618,Completed
+ORD0015,Zara Sourcing Order,2,2024-07-26,2024-08-24,4908,In Progress
+ORD0016,Nishat Exports Client,1,2024-11-18,2024-12-20,5597,Delayed
+ORD0017,Al-Karam Textiles Buyer,1,2025-03-15,2025-04-01,3659,Completed
+ORD0018,Interloop B2B Order,4,2025-10-08,2025-11-12,5361,Completed
+ORD0019,H&M Sourcing Order,6,2025-11-19,2025-12-18,1110,Delayed
+ORD0020,Local Wholesale - Lahore,5,2024-08-27,2024-09-06,3177,In Progress
+ORD0021,Zara Sourcing Order,3,2024-10-12,2024-11-09,786,Completed
+ORD0022,Nishat Exports Client,1,2025-03-02,2025-04-02,4888,Delayed
+ORD0023,Interloop B2B Order,5,2025-04-17,2025-05-23,3310,In Progress
+ORD0024,H&M Sourcing Order,4,2025-01-18,2025-01-28,5926,Completed
+ORD0025,Interloop B2B Order,2,2025-05-22,2025-06-27,4377,Completed
+ORD0026,Nishat Exports Client,6,2025-04-04,2025-04-27,1341,Completed
+ORD0027,Al-Karam Textiles Buyer,5,2024-07-14,2024-08-27,3901,Completed
+ORD0028,H&M Sourcing Order,2,2024-02-19,2024-03-31,944,Completed
+ORD0029,Local Wholesale - Lahore,3,2024-07-16,2024-08-14,2303,Completed
+ORD0030,Zara Sourcing Order,3,2025-07-02,2025-07-13,5941,Delayed
+ORD0031,H&M Sourcing Order,2,2024-07-09,2024-08-03,5395,Completed
+ORD0032,Local Wholesale - Lahore,1,2024-08-06,2024-08-21,3665,Completed
+ORD0033,Gul Ahmed Retail,2,2024-10-27,2024-11-24,2532,Completed
+ORD0034,Decathlon Order,4,2025-04-29,2025-05-13,4081,Completed
+ORD0035,H&M Sourcing Order,6,2024-07-13,2024-08-10,3554,Completed
+ORD0036,Gul Ahmed Retail,2,2024-09-23,2024-11-02,2043,Completed
+ORD0037,H&M Sourcing Order,1,2024-10-14,2024-11-14,4999,Delayed
+ORD0038,Local Wholesale - Lahore,1,2025-10-22,2025-11-01,5572,In Progress
+ORD0039,Decathlon Order,5,2024-02-03,2024-03-13,5060,Completed
+ORD0040,Next PLC Order,4,2024-11-25,2024-12-20,4557,Delayed
+ORD0041,Interloop B2B Order,5,2025-10-09,2025-11-12,4152,Cancelled
+ORD0042,Local Wholesale - Faisalabad,3,2024-08-14,2024-08-24,1338,Completed
+ORD0043,Local Wholesale - Lahore,2,2025-11-14,2025-12-08,5078,Completed
+ORD0044,Decathlon Order,1,2025-05-23,2025-06-12,2236,Completed
+ORD0045,Local Wholesale - Faisalabad,2,2025-09-22,2025-10-14,5557,Delayed
+ORD0046,Local Wholesale - Lahore,5,2025-06-09,2025-06-30,710,Completed
+ORD0047,Gul Ahmed Retail,5,2024-12-18,2025-01-25,1504,Completed
+ORD0048,Local Wholesale - Lahore,3,2025-08-12,2025-09-20,2657,Completed
+ORD0049,Decathlon Order,1,2024-06-26,2024-07-08,5884,Completed
+ORD0050,H&M Sourcing Order,6,2024-11-26,2024-12-10,4644,Completed
+ORD0051,Local Wholesale - Lahore,1,2024-07-12,2024-08-05,5694,Completed
+ORD0052,Gul Ahmed Retail,6,2025-11-02,2025-11-17,2368,Completed
+ORD0053,Local Wholesale - Lahore,3,2024-06-25,2024-07-16,846,Completed
+ORD0054,Decathlon Order,4,2025-10-08,2025-11-01,2097,Delayed
+ORD0055,Zara Sourcing Order,5,2025-10-29,2025-11-14,5832,Delayed
+ORD0056,Local Wholesale - Faisalabad,6,2024-09-08,2024-10-23,3424,Completed
+ORD0057,Interloop B2B Order,1,2025-09-02,2025-09-18,5786,Completed
+ORD0058,Zara Sourcing Order,5,2024-11-05,2024-11-21,2134,Delayed
+ORD0059,Decathlon Order,6,2025-11-21,2025-12-21,548,Completed
+ORD0060,Al-Karam Textiles Buyer,5,2025-03-29,2025-05-05,1570,Completed
+ORD0061,H&M Sourcing Order,3,2025-12-24,2026-01-26,5516,Completed
+ORD0062,Next PLC Order,2,2025-12-05,2026-01-13,3758,Delayed
+ORD0063,Local Wholesale - Lahore,2,2025-07-06,2025-08-10,5119,Completed
+ORD0064,Decathlon Order,1,2024-07-21,2024-08-12,3433,Completed
+ORD0065,Interloop B2B Order,2,2025-05-27,2025-06-21,2419,Completed
+ORD0066,H&M Sourcing Order,1,2025-06-23,2025-07-07,1367,Completed
+ORD0067,Local Wholesale - Faisalabad,2,2024-08-01,2024-08-23,1754,Completed
+ORD0068,Local Wholesale - Faisalabad,6,2024-07-18,2024-08-13,5913,Completed
+ORD0069,H&M Sourcing Order,5,2025-09-03,2025-09-18,576,Completed
+ORD0070,Next PLC Order,5,2025-07-29,2025-08-11,3295,Completed
+ORD0071,Interloop B2B Order,1,2025-04-19,2025-05-12,1112,Completed
+ORD0072,H&M Sourcing Order,5,2025-10-31,2025-11-29,5561,Completed
+ORD0073,H&M Sourcing Order,5,2024-11-03,2024-11-21,1673,Completed
+ORD0074,Gul Ahmed Retail,6,2025-10-24,2025-11-09,3887,In Progress
+ORD0075,Nishat Exports Client,3,2024-04-10,2024-05-21,2995,Completed
+ORD0076,Nishat Exports Client,5,2025-02-22,2025-03-07,773,Completed
+ORD0077,Interloop B2B Order,1,2025-03-25,2025-04-28,5067,Completed
+ORD0078,Local Wholesale - Lahore,5,2024-12-28,2025-01-30,970,Completed
+ORD0079,Interloop B2B Order,6,2025-09-21,2025-11-01,5469,Completed
+ORD0080,H&M Sourcing Order,5,2024-06-25,2024-08-07,1185,Completed
+ORD0081,Zara Sourcing Order,6,2024-02-24,2024-04-08,2743,In Progress
+ORD0082,H&M Sourcing Order,3,2024-02-28,2024-03-31,1508,Completed
+ORD0083,Al-Karam Textiles Buyer,2,2024-06-26,2024-07-16,664,Completed
+ORD0084,Interloop B2B Order,6,2025-07-10,2025-07-29,3597,Completed
+ORD0085,Local Wholesale - Lahore,4,2025-02-06,2025-02-17,3547,Completed
+ORD0086,Interloop B2B Order,5,2024-05-30,2024-07-01,1491,Cancelled
+ORD0087,Next PLC Order,6,2024-03-01,2024-04-04,3663,Completed
+ORD0088,Nishat Exports Client,3,2025-04-29,2025-05-29,4074,Completed
+ORD0089,Al-Karam Textiles Buyer,6,2025-12-18,2026-01-27,4357,Delayed
+ORD0090,Nishat Exports Client,3,2025-02-11,2025-03-03,716,Completed
+ORD0091,Al-Karam Textiles Buyer,1,2025-10-22,2025-11-24,765,Completed
+ORD0092,Interloop B2B Order,3,2024-04-05,2024-05-09,2983,Completed
+ORD0093,Nishat Exports Client,3,2025-06-23,2025-07-14,1791,In Progress
+ORD0094,Decathlon Order,1,2024-08-22,2024-10-04,1842,Completed
+ORD0095,Decathlon Order,5,2024-08-20,2024-09-24,3375,Completed
+ORD0096,Local Wholesale - Faisalabad,6,2024-11-05,2024-11-15,4527,Delayed
+ORD0097,Gul Ahmed Retail,6,2025-06-07,2025-07-22,5026,Completed
+ORD0098,H&M Sourcing Order,3,2024-09-09,2024-10-02,5248,Delayed
+ORD0099,Al-Karam Textiles Buyer,1,2025-05-05,2025-06-04,5028,In Progress
+ORD0100,Local Wholesale - Faisalabad,6,2025-02-17,2025-03-24,1572,Delayed
+ORD0101,Al-Karam Textiles Buyer,5,2024-04-06,2024-05-10,3374,Completed
+ORD0102,Interloop B2B Order,1,2025-08-29,2025-09-24,5638,In Progress
+ORD0103,H&M Sourcing Order,4,2024-04-21,2024-05-04,2514,Completed
+ORD0104,Next PLC Order,3,2025-01-29,2025-02-23,3289,Completed
+ORD0105,Decathlon Order,1,2024-11-30,2025-01-05,5966,In Progress
+ORD0106,H&M Sourcing Order,2,2024-07-27,2024-08-24,2501,In Progress
+ORD0107,Decathlon Order,4,2024-07-24,2024-08-23,2522,Completed
+ORD0108,H&M Sourcing Order,3,2024-02-26,2024-03-24,1438,In Progress
+ORD0109,Interloop B2B Order,4,2025-05-03,2025-05-21,4194,Completed
+ORD0110,H&M Sourcing Order,3,2024-07-14,2024-08-02,747,In Progress
+ORD0111,Gul Ahmed Retail,3,2025-02-21,2025-03-04,4377,Completed
+ORD0112,Next PLC Order,1,2024-06-21,2024-08-02,3980,Delayed
+ORD0113,Next PLC Order,3,2024-12-02,2025-01-04,3063,Completed
+ORD0114,Gul Ahmed Retail,2,2024-08-13,2024-09-18,5327,Delayed
+ORD0115,Zara Sourcing Order,3,2024-09-02,2024-09-24,4742,Delayed
+ORD0116,Next PLC Order,1,2025-10-26,2025-12-02,2867,In Progress
+ORD0117,Local Wholesale - Faisalabad,6,2024-11-10,2024-12-14,5152,In Progress
+ORD0118,Al-Karam Textiles Buyer,3,2024-09-11,2024-09-24,929,In Progress
+ORD0119,Nishat Exports Client,2,2024-05-14,2024-06-18,4069,Completed
+ORD0120,Local Wholesale - Lahore,2,2024-10-08,2024-11-15,4995,Delayed
+ORD0121,Interloop B2B Order,3,2025-03-20,2025-04-08,5406,Completed
+ORD0122,Nishat Exports Client,3,2024-01-07,2024-02-14,1280,In Progress
+ORD0123,Zara Sourcing Order,3,2025-08-30,2025-09-30,2350,Delayed
+ORD0124,Interloop B2B Order,6,2024-03-26,2024-04-20,1681,In Progress
+ORD0125,Nishat Exports Client,6,2025-08-16,2025-09-27,5064,Completed
+ORD0126,Local Wholesale - Lahore,6,2025-08-21,2025-09-20,4444,Completed
+ORD0127,Decathlon Order,4,2024-05-05,2024-06-18,4244,In Progress
+ORD0128,Nishat Exports Client,4,2024-05-21,2024-07-01,4453,Completed
+ORD0129,Local Wholesale - Faisalabad,5,2024-09-01,2024-09-12,3408,Completed
+ORD0130,Interloop B2B Order,3,2024-01-29,2024-03-07,2113,Completed
+ORD0131,Decathlon Order,3,2024-11-29,2024-12-30,3185,Delayed
+ORD0132,Zara Sourcing Order,6,2024-05-11,2024-06-09,2630,In Progress
+ORD0133,Local Wholesale - Lahore,4,2025-04-26,2025-05-06,4024,Completed
+ORD0134,Zara Sourcing Order,5,2024-08-21,2024-09-04,1270,Completed
+ORD0135,Interloop B2B Order,6,2025-07-27,2025-08-07,1403,Completed
+ORD0136,Local Wholesale - Lahore,5,2025-07-16,2025-08-08,674,Completed
+ORD0137,Decathlon Order,5,2025-05-25,2025-07-01,971,Completed
+ORD0138,Local Wholesale - Faisalabad,6,2025-05-29,2025-06-24,2261,Completed
+ORD0139,Gul Ahmed Retail,4,2024-08-13,2024-09-05,1157,Completed
+ORD0140,Local Wholesale - Faisalabad,2,2025-06-24,2025-07-25,3201,In Progress
+ORD0141,Gul Ahmed Retail,3,2024-07-20,2024-08-16,1994,Completed
+ORD0142,Local Wholesale - Faisalabad,6,2025-07-06,2025-08-15,5130,Completed
+ORD0143,Next PLC Order,5,2025-03-11,2025-04-17,1668,Completed
+ORD0144,Next PLC Order,4,2025-10-16,2025-11-28,2212,In Progress
+ORD0145,Zara Sourcing Order,5,2025-12-31,2026-01-13,5605,Completed
+ORD0146,Interloop B2B Order,2,2025-04-12,2025-04-25,1890,Completed
+ORD0147,Zara Sourcing Order,1,2025-11-27,2025-12-08,1304,Delayed
+ORD0148,Decathlon Order,1,2024-09-21,2024-10-29,3131,Completed
+ORD0149,Interloop B2B Order,4,2025-06-18,2025-07-06,1470,Completed
+ORD0150,Zara Sourcing Order,5,2025-09-08,2025-09-24,4804,Completed
+ORD0151,H&M Sourcing Order,4,2025-04-15,2025-05-24,2345,Completed
+ORD0152,Gul Ahmed Retail,2,2025-09-11,2025-09-24,3331,In Progress
+ORD0153,Zara Sourcing Order,5,2024-12-07,2024-12-22,5795,Completed
+ORD0154,Local Wholesale - Lahore,6,2025-11-02,2025-12-10,5569,Completed
+ORD0155,Next PLC Order,6,2024-03-31,2024-04-15,4725,Completed
+ORD0156,Al-Karam Textiles Buyer,5,2025-02-16,2025-03-03,2181,Completed
+ORD0157,Next PLC Order,3,2025-08-19,2025-09-03,4776,Completed
+ORD0158,Interloop B2B Order,1,2024-01-18,2024-02-04,3825,Completed
+ORD0159,Local Wholesale - Lahore,6,2025-11-09,2025-11-24,971,Completed
+ORD0160,H&M Sourcing Order,1,2025-12-24,2026-02-07,1391,Completed
+ORD0161,H&M Sourcing Order,3,2024-06-01,2024-07-02,4831,Completed
+ORD0162,Next PLC Order,5,2024-08-30,2024-09-15,4742,Completed
+ORD0163,Local Wholesale - Faisalabad,3,2024-11-30,2024-12-30,2295,In Progress
+ORD0164,Decathlon Order,1,2024-03-13,2024-04-02,3569,Completed
+ORD0165,Decathlon Order,1,2025-03-30,2025-04-12,2210,Completed
+ORD0166,Decathlon Order,3,2025-02-08,2025-03-16,2696,Completed
+ORD0167,Decathlon Order,1,2025-07-05,2025-07-17,4521,Completed
+ORD0168,Next PLC Order,6,2024-10-09,2024-11-05,772,In Progress
+ORD0169,Nishat Exports Client,6,2025-04-14,2025-05-01,5148,Completed
+ORD0170,Nishat Exports Client,1,2025-06-09,2025-07-11,1538,Completed
+ORD0171,Gul Ahmed Retail,3,2024-04-18,2024-05-17,3954,Completed
+ORD0172,Local Wholesale - Lahore,1,2024-05-26,2024-06-12,4779,Delayed
+ORD0173,Local Wholesale - Lahore,2,2024-07-27,2024-08-23,2728,Completed
+ORD0174,Interloop B2B Order,3,2025-06-21,2025-07-30,2086,In Progress
+ORD0175,Local Wholesale - Lahore,4,2024-09-21,2024-10-13,3916,Completed
+ORD0176,Decathlon Order,6,2024-05-18,2024-06-06,609,Completed
+ORD0177,Decathlon Order,3,2024-02-07,2024-03-21,3719,In Progress
+ORD0178,Zara Sourcing Order,5,2025-02-11,2025-03-24,2248,Completed
+ORD0179,Interloop B2B Order,4,2025-05-15,2025-06-06,1795,Completed
+ORD0180,Zara Sourcing Order,1,2025-09-06,2025-10-20,1815,Completed
+ORD0181,Local Wholesale - Lahore,2,2025-06-01,2025-06-23,5570,Completed
+ORD0182,Interloop B2B Order,1,2024-07-04,2024-08-15,684,In Progress
+ORD0183,H&M Sourcing Order,1,2024-08-14,2024-09-21,1069,Completed
+ORD0184,Next PLC Order,2,2025-01-29,2025-02-08,5809,Completed
+ORD0185,Nishat Exports Client,5,2025-07-17,2025-08-26,3362,Delayed
+ORD0186,Decathlon Order,6,2025-01-14,2025-01-25,1922,In Progress
+ORD0187,Local Wholesale - Faisalabad,3,2025-08-28,2025-09-25,815,In Progress
+ORD0188,Zara Sourcing Order,3,2024-10-20,2024-11-21,4660,Completed
+ORD0189,Zara Sourcing Order,5,2024-09-09,2024-09-19,2036,Cancelled
+ORD0190,Nishat Exports Client,2,2025-07-25,2025-08-25,2529,Completed
+ORD0191,Local Wholesale - Lahore,2,2025-07-19,2025-09-02,1525,Completed
+ORD0192,Decathlon Order,1,2025-12-12,2026-01-16,1719,Cancelled
+ORD0193,H&M Sourcing Order,2,2025-07-04,2025-08-18,2201,Delayed
+ORD0194,Local Wholesale - Faisalabad,5,2025-06-15,2025-07-08,2507,Completed
+ORD0195,Decathlon Order,6,2025-02-04,2025-02-25,1449,Completed
+ORD0196,Next PLC Order,6,2025-09-30,2025-11-04,1659,Completed
+ORD0197,Next PLC Order,1,2024-02-18,2024-03-07,2901,Completed
+ORD0198,Al-Karam Textiles Buyer,1,2024-06-01,2024-06-23,638,Completed
+ORD0199,Local Wholesale - Lahore,6,2025-07-11,2025-08-24,4911,Completed
+ORD0200,Local Wholesale - Lahore,5,2024-04-13,2024-05-10,802,Completed
+ORD0201,Interloop B2B Order,3,2024-08-07,2024-08-21,1321,Delayed
+ORD0202,Decathlon Order,2,2025-02-28,2025-03-24,3953,Completed
+ORD0203,Local Wholesale - Lahore,2,2024-07-15,2024-08-14,2055,Completed
+ORD0204,Al-Karam Textiles Buyer,1,2024-09-08,2024-10-15,1024,In Progress
+ORD0205,Local Wholesale - Lahore,2,2025-07-12,2025-08-20,2405,Delayed
+ORD0206,Interloop B2B Order,6,2024-10-07,2024-11-19,4249,Completed
+ORD0207,Local Wholesale - Lahore,1,2024-12-31,2025-01-16,3861,Completed
+ORD0208,Local Wholesale - Lahore,1,2025-02-09,2025-03-16,1336,Completed
+ORD0209,Zara Sourcing Order,1,2024-06-15,2024-07-27,5273,Completed
+ORD0210,Al-Karam Textiles Buyer,3,2024-09-11,2024-09-27,780,Completed
+ORD0211,Next PLC Order,5,2024-02-24,2024-04-08,859,In Progress
+ORD0212,Local Wholesale - Lahore,5,2024-07-31,2024-09-08,1912,Completed
+ORD0213,Al-Karam Textiles Buyer,4,2024-09-25,2024-10-18,5950,Delayed
+ORD0214,Local Wholesale - Lahore,6,2024-08-27,2024-10-09,4283,Completed
+ORD0215,Nishat Exports Client,5,2024-06-23,2024-07-21,3082,Cancelled
+ORD0216,Decathlon Order,4,2025-08-20,2025-09-21,2932,Completed
+ORD0217,Decathlon Order,4,2024-12-22,2025-01-25,2705,Completed
+ORD0218,Gul Ahmed Retail,2,2024-02-04,2024-03-15,2931,Completed
+ORD0219,Local Wholesale - Faisalabad,4,2025-06-28,2025-07-28,1403,Completed
+ORD0220,Next PLC Order,5,2024-01-09,2024-02-20,4231,Completed
+ORD0221,Local Wholesale - Lahore,3,2025-07-28,2025-09-09,3450,Completed
+ORD0222,Zara Sourcing Order,3,2024-09-20,2024-10-25,2473,Delayed
+ORD0223,Al-Karam Textiles Buyer,3,2024-03-14,2024-03-31,5730,In Progress
+ORD0224,H&M Sourcing Order,5,2024-06-25,2024-08-07,3522,Delayed
+ORD0225,Next PLC Order,4,2025-09-04,2025-09-17,730,Completed
+ORD0226,Local Wholesale - Lahore,2,2025-07-09,2025-07-29,2527,Completed
+ORD0227,Decathlon Order,4,2024-12-23,2025-01-09,3363,Completed
+ORD0228,Interloop B2B Order,1,2024-06-16,2024-06-29,2751,Completed
+ORD0229,Local Wholesale - Faisalabad,5,2025-08-29,2025-10-08,3484,Completed
+ORD0230,Nishat Exports Client,3,2024-08-11,2024-09-01,4850,Completed
+ORD0231,Local Wholesale - Faisalabad,3,2025-09-06,2025-09-17,3212,Delayed
+ORD0232,Al-Karam Textiles Buyer,4,2025-02-04,2025-03-07,3090,Delayed
+ORD0233,Local Wholesale - Lahore,3,2025-02-09,2025-03-02,5915,Completed
+ORD0234,Gul Ahmed Retail,6,2025-06-13,2025-07-10,1145,Delayed
+ORD0235,Next PLC Order,5,2025-08-03,2025-09-02,3253,Completed
+ORD0236,Zara Sourcing Order,1,2024-05-19,2024-06-16,1003,Completed
+ORD0237,Al-Karam Textiles Buyer,1,2025-11-11,2025-12-16,2248,Completed
+ORD0238,Zara Sourcing Order,1,2025-09-03,2025-09-28,2753,Completed
+ORD0239,Local Wholesale - Lahore,1,2024-03-17,2024-04-18,2547,Completed
+ORD0240,Next PLC Order,4,2024-03-07,2024-04-04,2077,Completed
+ORD0241,Interloop B2B Order,6,2025-09-02,2025-10-12,4088,Completed
+ORD0242,Decathlon Order,5,2024-08-17,2024-09-25,4633,Completed
+ORD0243,H&M Sourcing Order,2,2025-10-20,2025-11-18,550,Completed
+ORD0244,Interloop B2B Order,4,2025-05-17,2025-06-11,5267,Delayed
+ORD0245,Local Wholesale - Faisalabad,1,2024-03-06,2024-04-19,5281,In Progress
+ORD0246,Interloop B2B Order,6,2024-06-07,2024-07-12,821,Completed
+ORD0247,Interloop B2B Order,4,2024-07-12,2024-07-30,3330,Delayed
+ORD0248,Gul Ahmed Retail,6,2024-12-07,2025-01-12,4154,Completed
+ORD0249,Nishat Exports Client,3,2025-04-22,2025-05-28,738,Completed
+ORD0250,H&M Sourcing Order,1,2025-01-15,2025-02-26,1862,Cancelled
+ORD0251,Gul Ahmed Retail,1,2025-05-19,2025-06-04,2287,Completed
+ORD0252,Interloop B2B Order,5,2024-11-15,2024-12-17,1021,In Progress
+ORD0253,Nishat Exports Client,5,2025-08-25,2025-09-04,1758,Completed
+ORD0254,Al-Karam Textiles Buyer,1,2025-10-02,2025-11-08,865,In Progress
+ORD0255,Gul Ahmed Retail,5,2025-06-14,2025-07-20,1689,Completed
+ORD0256,Interloop B2B Order,4,2024-01-26,2024-02-25,5646,Completed
+ORD0257,Gul Ahmed Retail,2,2024-04-01,2024-04-11,4988,In Progress
+ORD0258,H&M Sourcing Order,3,2024-01-02,2024-02-05,4838,Delayed
+ORD0259,Next PLC Order,4,2025-10-22,2025-11-26,4638,Completed
+ORD0260,Gul Ahmed Retail,2,2024-09-22,2024-10-23,1407,Completed
+ORD0261,H&M Sourcing Order,3,2025-08-25,2025-09-10,3100,Completed
+ORD0262,Interloop B2B Order,1,2025-10-21,2025-12-03,2159,Completed
+ORD0263,Zara Sourcing Order,5,2024-02-29,2024-03-18,866,Completed
+ORD0264,Gul Ahmed Retail,5,2024-10-01,2024-11-01,2340,Completed
+ORD0265,Al-Karam Textiles Buyer,1,2024-07-08,2024-08-11,1904,Delayed
+ORD0266,Local Wholesale - Faisalabad,6,2025-07-13,2025-08-24,5518,Delayed
+ORD0267,H&M Sourcing Order,5,2024-06-11,2024-07-13,1287,Completed
+ORD0268,Nishat Exports Client,4,2024-03-24,2024-04-12,2529,Delayed
+ORD0269,Zara Sourcing Order,5,2025-08-16,2025-09-24,3958,Completed
+ORD0270,Local Wholesale - Faisalabad,5,2025-10-17,2025-11-19,524,Delayed
+ORD0271,Next PLC Order,4,2024-08-10,2024-09-13,3099,Completed
+ORD0272,Local Wholesale - Faisalabad,2,2024-03-01,2024-03-19,2793,In Progress
+ORD0273,H&M Sourcing Order,6,2025-08-27,2025-09-20,673,Completed
+ORD0274,Al-Karam Textiles Buyer,4,2025-07-27,2025-08-21,2760,Completed
+ORD0275,Next PLC Order,5,2024-05-15,2024-06-22,4246,Completed
+ORD0276,Local Wholesale - Lahore,1,2024-05-13,2024-06-16,4555,Delayed
+ORD0277,H&M Sourcing Order,3,2024-10-14,2024-11-25,1185,In Progress
+ORD0278,Al-Karam Textiles Buyer,3,2025-07-14,2025-08-01,5193,Delayed
+ORD0279,H&M Sourcing Order,4,2025-12-03,2025-12-16,5532,Completed
+ORD0280,Next PLC Order,6,2024-03-08,2024-03-22,1356,Delayed
+ORD0281,Interloop B2B Order,6,2024-02-12,2024-03-04,4801,In Progress
+ORD0282,H&M Sourcing Order,5,2025-06-24,2025-07-30,812,Completed
+ORD0283,Next PLC Order,5,2024-02-21,2024-03-24,1706,Delayed
+ORD0284,Local Wholesale - Faisalabad,6,2024-02-17,2024-03-24,4801,Delayed
+ORD0285,H&M Sourcing Order,1,2025-02-24,2025-03-24,2245,Delayed
+ORD0286,Decathlon Order,1,2024-05-31,2024-06-27,3553,Completed
+ORD0287,Local Wholesale - Faisalabad,4,2024-04-02,2024-05-01,5505,Delayed
+ORD0288,Gul Ahmed Retail,5,2025-10-15,2025-11-01,3248,Completed
+ORD0289,Interloop B2B Order,3,2024-10-12,2024-11-22,1054,Completed
+ORD0290,Next PLC Order,4,2024-09-01,2024-10-14,2169,Cancelled
+ORD0291,Al-Karam Textiles Buyer,6,2024-11-23,2024-12-25,4706,In Progress
+ORD0292,Decathlon Order,1,2025-10-25,2025-11-12,2426,Completed
+ORD0293,Local Wholesale - Faisalabad,3,2024-10-17,2024-11-17,5814,Completed
+ORD0294,Al-Karam Textiles Buyer,5,2024-12-07,2025-01-06,5392,Completed
+ORD0295,Decathlon Order,6,2024-03-29,2024-04-25,1159,Completed
+ORD0296,Local Wholesale - Faisalabad,6,2025-09-19,2025-10-12,523,Completed
+ORD0297,Decathlon Order,4,2025-12-14,2026-01-24,4771,Completed
+ORD0298,Next PLC Order,5,2024-01-08,2024-02-01,3312,Completed
+ORD0299,Next PLC Order,2,2024-05-10,2024-05-30,3917,In Progress
+ORD0300,Nishat Exports Client,1,2024-07-04,2024-08-11,931,Completed
+ORD0301,Zara Sourcing Order,2,2025-04-26,2025-05-22,3460,Completed
+ORD0302,Interloop B2B Order,4,2024-01-18,2024-03-02,1753,Completed
+ORD0303,Local Wholesale - Faisalabad,5,2025-06-24,2025-07-14,732,Completed
+ORD0304,Interloop B2B Order,5,2025-11-29,2026-01-01,5697,In Progress
+ORD0305,Decathlon Order,2,2025-08-07,2025-09-06,1099,Completed
+ORD0306,Local Wholesale - Lahore,6,2025-07-12,2025-08-18,5149,Completed
+ORD0307,Al-Karam Textiles Buyer,4,2025-03-29,2025-04-28,1175,Completed
+ORD0308,Al-Karam Textiles Buyer,1,2024-03-15,2024-04-05,5457,Completed
+ORD0309,Local Wholesale - Lahore,5,2024-06-28,2024-08-05,4491,Completed
+ORD0310,H&M Sourcing Order,6,2024-02-25,2024-03-28,695,Completed
+ORD0311,Zara Sourcing Order,6,2025-07-24,2025-08-29,4869,Cancelled
+ORD0312,Interloop B2B Order,6,2024-08-20,2024-09-26,1660,Completed
+ORD0313,Interloop B2B Order,5,2024-11-05,2024-12-18,3635,Completed
+ORD0314,Zara Sourcing Order,1,2024-03-11,2024-04-24,5821,Completed
+ORD0315,H&M Sourcing Order,1,2025-12-29,2026-01-26,4212,Delayed
+ORD0316,Al-Karam Textiles Buyer,5,2025-12-04,2026-01-01,1704,Completed
+ORD0317,H&M Sourcing Order,1,2024-07-20,2024-08-05,2347,Completed
+ORD0318,H&M Sourcing Order,1,2024-05-21,2024-06-24,5327,Cancelled
+ORD0319,Zara Sourcing Order,6,2024-01-13,2024-02-08,2199,Completed
+ORD0320,Local Wholesale - Faisalabad,5,2024-07-13,2024-08-17,988,Completed
+ORD0321,Local Wholesale - Faisalabad,3,2024-10-11,2024-10-31,2287,Completed
+ORD0322,Local Wholesale - Faisalabad,4,2024-04-27,2024-06-06,5431,Delayed
+ORD0323,Local Wholesale - Faisalabad,6,2024-11-08,2024-11-23,563,In Progress
+ORD0324,Next PLC Order,6,2024-05-27,2024-07-10,3757,Delayed
+ORD0325,Nishat Exports Client,5,2024-10-16,2024-11-21,2653,Delayed
+ORD0326,Al-Karam Textiles Buyer,6,2024-09-25,2024-10-20,825,Completed
+ORD0327,Gul Ahmed Retail,3,2025-08-11,2025-08-31,1193,Completed
+ORD0328,Interloop B2B Order,6,2025-02-20,2025-03-23,5081,Completed
+ORD0329,H&M Sourcing Order,6,2025-04-24,2025-05-23,5748,Delayed
+ORD0330,Nishat Exports Client,2,2024-08-28,2024-10-02,2380,Delayed
+ORD0331,Decathlon Order,3,2024-09-12,2024-10-11,1750,Completed
+ORD0332,H&M Sourcing Order,2,2025-08-16,2025-09-30,4926,Completed
+ORD0333,Interloop B2B Order,4,2024-11-21,2024-12-03,5009,Completed
+ORD0334,H&M Sourcing Order,3,2025-02-11,2025-03-17,4868,Completed
+ORD0335,Local Wholesale - Lahore,1,2024-10-27,2024-11-24,5502,Completed
+ORD0336,Local Wholesale - Faisalabad,1,2024-07-29,2024-09-04,5233,Cancelled
+ORD0337,H&M Sourcing Order,2,2025-12-23,2026-01-26,5675,Completed
+ORD0338,Zara Sourcing Order,1,2024-06-01,2024-06-12,4441,Cancelled
+ORD0339,Decathlon Order,3,2025-06-27,2025-07-10,4922,Completed
+ORD0340,H&M Sourcing Order,4,2024-11-16,2024-12-17,1551,Delayed
+ORD0341,Gul Ahmed Retail,6,2025-02-19,2025-03-26,504,In Progress
+ORD0342,Zara Sourcing Order,6,2025-12-01,2025-12-26,3845,Completed
+ORD0343,Local Wholesale - Faisalabad,6,2025-12-02,2025-12-20,3247,Cancelled
+ORD0344,H&M Sourcing Order,1,2025-08-09,2025-09-08,5591,Completed
+ORD0345,Zara Sourcing Order,5,2024-09-20,2024-10-02,1030,Delayed
+ORD0346,Local Wholesale - Lahore,4,2025-11-30,2025-12-26,2554,Delayed
+ORD0347,Next PLC Order,5,2024-10-28,2024-12-09,4281,Delayed
+ORD0348,H&M Sourcing Order,6,2025-03-29,2025-04-11,1518,Completed
+ORD0349,Decathlon Order,1,2025-02-25,2025-03-26,4941,In Progress
+ORD0350,Local Wholesale - Lahore,2,2025-04-04,2025-05-03,2152,Cancelled
+ORD0351,Interloop B2B Order,2,2024-02-22,2024-03-08,2141,Cancelled
+ORD0352,Gul Ahmed Retail,4,2024-08-13,2024-09-24,4923,Completed
+ORD0353,Al-Karam Textiles Buyer,4,2025-07-24,2025-09-03,5941,Completed
+ORD0354,H&M Sourcing Order,1,2025-09-25,2025-10-25,5990,Completed
+ORD0355,Next PLC Order,1,2024-10-27,2024-12-07,1709,Completed
+ORD0356,H&M Sourcing Order,2,2025-06-18,2025-07-21,3802,Completed
+ORD0357,H&M Sourcing Order,6,2024-06-19,2024-07-27,4074,Cancelled
+ORD0358,Zara Sourcing Order,4,2024-06-07,2024-07-13,2111,Completed
+ORD0359,Gul Ahmed Retail,3,2025-03-27,2025-05-01,4879,Completed
+ORD0360,Local Wholesale - Faisalabad,4,2024-08-27,2024-10-08,5437,Completed
+ORD0361,Al-Karam Textiles Buyer,6,2025-07-20,2025-08-20,2797,Cancelled
+ORD0362,Zara Sourcing Order,2,2024-12-22,2025-01-19,3935,Delayed
+ORD0363,Al-Karam Textiles Buyer,3,2025-02-25,2025-03-07,5163,Completed
+ORD0364,H&M Sourcing Order,4,2025-08-06,2025-09-09,4186,Completed
+ORD0365,H&M Sourcing Order,3,2025-01-09,2025-02-15,4750,Completed
+ORD0366,Local Wholesale - Lahore,2,2025-04-18,2025-05-18,4393,Completed
+ORD0367,H&M Sourcing Order,3,2025-03-21,2025-04-16,2244,Completed
+ORD0368,Local Wholesale - Lahore,5,2025-12-17,2026-01-02,3446,Delayed
+ORD0369,H&M Sourcing Order,3,2025-02-17,2025-03-29,1326,Delayed
+ORD0370,Decathlon Order,5,2024-02-07,2024-03-19,5834,Delayed
+ORD0371,Al-Karam Textiles Buyer,6,2024-05-03,2024-05-13,528,Completed
+ORD0372,Next PLC Order,6,2025-01-28,2025-03-12,1959,Completed
+ORD0373,Decathlon Order,1,2024-04-20,2024-05-10,5245,Completed
+ORD0374,Local Wholesale - Lahore,2,2025-03-28,2025-05-11,1155,Completed
+ORD0375,Interloop B2B Order,3,2025-12-06,2025-12-29,2483,Delayed
+ORD0376,Next PLC Order,6,2025-02-06,2025-02-26,2305,Delayed
+ORD0377,Next PLC Order,1,2025-07-13,2025-08-06,2996,Completed
+ORD0378,Local Wholesale - Lahore,5,2024-09-08,2024-10-03,4978,Completed
+ORD0379,Al-Karam Textiles Buyer,2,2025-03-07,2025-04-14,4885,Completed
+ORD0380,Al-Karam Textiles Buyer,5,2024-08-04,2024-08-14,541,Completed
+ORD0381,Local Wholesale - Lahore,5,2024-03-07,2024-04-03,732,Completed
+ORD0382,Decathlon Order,2,2024-09-01,2024-09-22,4708,Completed
+ORD0383,Local Wholesale - Lahore,2,2024-11-05,2024-12-07,4106,Cancelled
+ORD0384,Gul Ahmed Retail,3,2024-01-14,2024-02-01,4683,Completed
+ORD0385,Nishat Exports Client,3,2025-12-07,2026-01-02,4141,Completed
+ORD0386,Decathlon Order,3,2024-09-21,2024-10-06,2186,Completed
+ORD0387,Interloop B2B Order,4,2024-10-18,2024-11-23,4132,In Progress
+ORD0388,Zara Sourcing Order,3,2024-03-08,2024-04-06,4838,Completed
+ORD0389,Next PLC Order,3,2024-01-21,2024-02-02,1136,Delayed
+ORD0390,Al-Karam Textiles Buyer,6,2025-04-23,2025-05-15,3295,In Progress
+ORD0391,Nishat Exports Client,1,2025-12-04,2025-12-24,3351,Completed
+ORD0392,Interloop B2B Order,2,2025-10-16,2025-11-01,5603,Completed
+ORD0393,Local Wholesale - Lahore,2,2024-06-06,2024-07-05,1253,Completed
+ORD0394,Al-Karam Textiles Buyer,2,2025-05-06,2025-06-14,1357,Completed
+ORD0395,Next PLC Order,1,2025-05-30,2025-07-03,3104,Completed
+ORD0396,H&M Sourcing Order,1,2025-07-04,2025-07-20,1345,Cancelled
+ORD0397,H&M Sourcing Order,1,2024-11-18,2024-11-30,4989,In Progress
+ORD0398,Next PLC Order,3,2025-05-01,2025-05-25,5059,In Progress
+ORD0399,Al-Karam Textiles Buyer,2,2024-05-03,2024-06-06,4713,Completed
+ORD0400,Decathlon Order,4,2024-12-19,2024-12-30,1605,Completed
+ORD0401,Local Wholesale - Lahore,6,2025-09-09,2025-10-04,2657,Completed
+ORD0402,Zara Sourcing Order,2,2024-03-27,2024-04-30,2737,Completed
+ORD0403,Local Wholesale - Lahore,6,2025-05-06,2025-05-24,3030,Completed
+ORD0404,Next PLC Order,1,2024-06-19,2024-07-22,3373,Cancelled
+ORD0405,Interloop B2B Order,1,2024-10-13,2024-10-26,1211,Completed
+ORD0406,Zara Sourcing Order,6,2025-07-20,2025-08-07,4458,Completed
+ORD0407,Nishat Exports Client,6,2024-04-19,2024-05-23,4702,Completed
+ORD0408,Next PLC Order,3,2025-04-27,2025-05-25,1338,Completed
+ORD0409,Decathlon Order,4,2024-11-18,2024-12-19,1287,Completed
+ORD0410,Gul Ahmed Retail,1,2025-12-22,2026-01-06,3778,Completed
+ORD0411,Nishat Exports Client,3,2025-01-08,2025-02-20,3703,Completed
+ORD0412,Interloop B2B Order,4,2024-11-19,2024-12-30,2687,In Progress
+ORD0413,Gul Ahmed Retail,6,2024-08-19,2024-09-22,3379,Cancelled
+ORD0414,Al-Karam Textiles Buyer,3,2025-07-08,2025-08-20,536,Completed
+ORD0415,Zara Sourcing Order,3,2025-10-18,2025-11-03,2603,Completed
+ORD0416,Next PLC Order,2,2025-09-24,2025-11-02,5740,Cancelled
+ORD0417,Zara Sourcing Order,3,2024-05-13,2024-06-23,1690,Completed
+ORD0418,Gul Ahmed Retail,6,2024-05-02,2024-05-18,1423,Delayed
+ORD0419,Local Wholesale - Faisalabad,4,2025-11-08,2025-12-21,1299,In Progress
+ORD0420,Local Wholesale - Lahore,4,2024-05-04,2024-06-12,5440,Delayed
+ORD0421,Local Wholesale - Faisalabad,5,2025-05-17,2025-06-15,1592,Completed
+ORD0422,Nishat Exports Client,1,2024-05-30,2024-06-24,1636,Delayed
+ORD0423,Decathlon Order,3,2024-06-17,2024-06-29,2047,In Progress
+ORD0424,Decathlon Order,3,2025-11-29,2025-12-27,1452,Completed
+ORD0425,Zara Sourcing Order,5,2025-05-12,2025-06-01,2250,Completed
+ORD0426,H&M Sourcing Order,4,2025-02-17,2025-03-01,622,Completed
+ORD0427,Al-Karam Textiles Buyer,6,2025-10-29,2025-11-15,2144,Completed
+ORD0428,Gul Ahmed Retail,4,2025-12-11,2026-01-11,4784,In Progress
+ORD0429,Decathlon Order,6,2025-12-04,2025-12-16,945,Delayed
+ORD0430,Interloop B2B Order,6,2025-03-26,2025-04-26,2598,Completed
+ORD0431,Gul Ahmed Retail,2,2024-10-10,2024-10-31,685,Completed
+ORD0432,H&M Sourcing Order,2,2025-08-14,2025-09-15,5439,In Progress
+ORD0433,Next PLC Order,2,2025-11-24,2025-12-07,1692,Completed
+ORD0434,Gul Ahmed Retail,3,2024-03-09,2024-04-12,4917,Completed
+ORD0435,Interloop B2B Order,3,2025-09-05,2025-10-20,5365,Completed
+ORD0436,Next PLC Order,6,2025-05-13,2025-06-14,2704,Completed
+ORD0437,Next PLC Order,5,2024-07-15,2024-07-28,5963,Delayed
+ORD0438,Al-Karam Textiles Buyer,6,2025-08-07,2025-09-16,3097,Completed
+ORD0439,Zara Sourcing Order,5,2024-05-26,2024-06-08,634,Delayed
+ORD0440,Next PLC Order,2,2025-12-20,2026-01-28,4265,Completed
+ORD0441,Local Wholesale - Lahore,1,2024-04-04,2024-05-03,3522,Completed
+ORD0442,Local Wholesale - Faisalabad,6,2024-04-17,2024-05-30,1503,Delayed
+ORD0443,Local Wholesale - Lahore,5,2024-03-30,2024-04-09,4482,Delayed
+ORD0444,Gul Ahmed Retail,6,2024-09-18,2024-09-29,4022,In Progress
+ORD0445,Next PLC Order,2,2024-07-09,2024-08-05,5408,Completed
+ORD0446,Al-Karam Textiles Buyer,3,2025-01-23,2025-02-13,1875,In Progress
+ORD0447,Decathlon Order,1,2025-06-27,2025-08-01,1301,Completed
+ORD0448,Local Wholesale - Lahore,2,2025-01-22,2025-02-26,1769,Completed
+ORD0449,Zara Sourcing Order,2,2024-09-24,2024-10-05,2200,Completed
+ORD0450,Gul Ahmed Retail,2,2024-02-24,2024-03-05,2113,Completed
+ORD0451,Interloop B2B Order,1,2024-04-09,2024-05-11,3838,Completed
+ORD0452,Zara Sourcing Order,4,2024-10-20,2024-12-04,4570,Completed
+ORD0453,Al-Karam Textiles Buyer,3,2025-10-23,2025-11-07,2294,Completed
+ORD0454,Local Wholesale - Faisalabad,1,2024-08-08,2024-09-09,5186,Delayed
+ORD0455,Interloop B2B Order,6,2024-02-25,2024-04-07,2831,Completed
+ORD0456,Zara Sourcing Order,2,2025-07-21,2025-08-04,4748,Completed
+ORD0457,Zara Sourcing Order,3,2025-03-05,2025-04-04,950,Completed
+ORD0458,Next PLC Order,3,2024-11-24,2025-01-06,5334,Completed
+ORD0459,Zara Sourcing Order,4,2024-09-07,2024-10-09,4101,Completed
+ORD0460,Nishat Exports Client,1,2025-10-21,2025-11-19,2841,Completed
+ORD0461,Local Wholesale - Faisalabad,1,2024-05-17,2024-06-18,3110,Completed
+ORD0462,Nishat Exports Client,1,2024-05-10,2024-05-23,1272,In Progress
+ORD0463,Next PLC Order,3,2024-05-27,2024-07-07,1484,In Progress
+ORD0464,Zara Sourcing Order,5,2024-05-06,2024-06-03,3336,Completed
+ORD0465,Interloop B2B Order,4,2024-01-14,2024-02-17,5897,Completed
+ORD0466,Next PLC Order,4,2025-12-09,2026-01-10,3196,Completed
+ORD0467,Decathlon Order,2,2024-04-13,2024-05-09,4824,Completed
+ORD0468,Interloop B2B Order,1,2025-02-07,2025-03-17,1705,Completed
+ORD0469,Local Wholesale - Faisalabad,4,2024-07-24,2024-08-19,814,Completed
+ORD0470,Local Wholesale - Faisalabad,1,2024-10-04,2024-11-15,3582,Delayed
+ORD0471,Decathlon Order,2,2024-12-16,2025-01-17,986,Delayed
+ORD0472,Al-Karam Textiles Buyer,3,2024-12-31,2025-01-10,5574,Delayed
+ORD0473,Zara Sourcing Order,2,2024-08-16,2024-09-26,5154,Completed
+ORD0474,Local Wholesale - Lahore,1,2025-10-13,2025-11-10,2995,Completed
+ORD0475,Nishat Exports Client,3,2025-10-30,2025-11-29,1765,Completed
+ORD0476,Nishat Exports Client,2,2025-08-16,2025-08-30,4995,In Progress
+ORD0477,Local Wholesale - Faisalabad,3,2025-04-28,2025-05-27,4870,Completed
+ORD0478,Nishat Exports Client,1,2024-07-25,2024-08-25,5934,Completed
+ORD0479,Next PLC Order,6,2024-05-07,2024-05-31,4786,Completed
+ORD0480,Local Wholesale - Faisalabad,4,2025-04-10,2025-05-16,4592,Completed
+ORD0481,Zara Sourcing Order,6,2025-08-17,2025-09-06,5847,Delayed
+ORD0482,Nishat Exports Client,4,2025-07-01,2025-07-30,3198,Completed
+ORD0483,H&M Sourcing Order,3,2025-01-30,2025-03-06,4936,Completed
+ORD0484,Local Wholesale - Lahore,3,2025-08-11,2025-09-03,2447,In Progress
+ORD0485,Decathlon Order,2,2025-05-30,2025-07-02,4225,Completed
+ORD0486,H&M Sourcing Order,1,2025-08-27,2025-09-17,4951,Completed
+ORD0487,Interloop B2B Order,1,2025-05-03,2025-05-22,5879,Completed
+ORD0488,Local Wholesale - Lahore,6,2024-01-21,2024-03-02,5489,Delayed
+ORD0489,Decathlon Order,4,2024-03-20,2024-04-06,2392,Completed
+ORD0490,H&M Sourcing Order,2,2025-03-03,2025-04-06,3063,In Progress
+ORD0491,Nishat Exports Client,2,2025-07-27,2025-09-01,3288,Delayed
+ORD0492,Decathlon Order,3,2024-06-08,2024-07-22,2654,Delayed
+ORD0493,Al-Karam Textiles Buyer,3,2024-02-20,2024-03-15,2762,Completed
+ORD0494,Local Wholesale - Lahore,6,2025-01-31,2025-03-02,3637,Cancelled
+ORD0495,Nishat Exports Client,5,2025-04-03,2025-04-16,4120,In Progress
+ORD0496,Al-Karam Textiles Buyer,1,2025-07-15,2025-08-25,4093,Completed
+ORD0497,Nishat Exports Client,2,2025-05-15,2025-06-29,3361,In Progress
+ORD0498,Gul Ahmed Retail,5,2024-07-30,2024-08-26,4333,Completed
+ORD0499,Next PLC Order,3,2024-10-13,2024-10-26,4541,Completed
+ORD0500,Decathlon Order,6,2025-05-20,2025-06-29,2805,Completed

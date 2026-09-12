@@ -1,0 +1,40 @@
+MachineID,MachineName,DeptID,InstallDate,Status
+MC001,Ring Spinning Frame #1,1,2020-10-28,Running
+MC002,Ring Spinning Frame #2,1,2022-11-27,Running
+MC003,Ring Spinning Frame #3,1,2019-04-05,Running
+MC004,Ring Spinning Frame #4,1,2021-05-15,Running
+MC005,Ring Spinning Frame #5,1,2020-02-25,Running
+MC006,Ring Spinning Frame #6,1,2020-07-04,Running
+MC007,Ring Spinning Frame #7,1,2018-01-05,Running
+MC008,Ring Spinning Frame #8,1,2021-05-20,Under Maintenance
+MC009,Power Loom #1,2,2021-02-15,Under Maintenance
+MC010,Power Loom #2,2,2020-09-19,Running
+MC011,Power Loom #3,2,2020-08-19,Running
+MC012,Power Loom #4,2,2018-04-30,Under Maintenance
+MC013,Power Loom #5,2,2021-06-13,Running
+MC014,Power Loom #6,2,2020-03-06,Running
+MC015,Power Loom #7,2,2022-09-17,Running
+MC016,Power Loom #8,2,2020-07-22,Running
+MC017,Power Loom #9,2,2022-02-25,Running
+MC018,Power Loom #10,2,2018-05-20,Running
+MC019,Dyeing Vat #1,3,2022-09-19,Running
+MC020,Dyeing Vat #2,3,2022-06-12,Running
+MC021,Dyeing Vat #3,3,2021-04-11,Running
+MC022,Dyeing Vat #4,3,2023-08-30,Running
+MC023,Dyeing Vat #5,3,2023-07-24,Under Maintenance
+MC024,Dyeing Vat #6,3,2021-06-30,Running
+MC025,Finishing Calender #1,4,2020-03-05,Running
+MC026,Finishing Calender #2,4,2020-06-26,Running
+MC027,Finishing Calender #3,4,2021-04-23,Running
+MC028,Finishing Calender #4,4,2023-07-24,Running
+MC029,Finishing Calender #5,4,2020-07-03,Running
+MC030,Stitching Unit #1,5,2018-08-20,Under Maintenance
+MC031,Stitching Unit #2,5,2019-08-23,Under Maintenance
+MC032,Stitching Unit #3,5,2018-08-11,Running
+MC033,Stitching Unit #4,5,2019-08-05,Running
+MC034,Stitching Unit #5,5,2018-09-04,Running
+MC035,Stitching Unit #6,5,2023-01-16,Running
+MC036,Inspection Line #1,6,2021-07-10,Running
+MC037,Inspection Line #2,6,2018-11-22,Under Maintenance
+MC038,Inspection Line #3,6,2021-09-10,Running
+MC039,Inspection Line #4,6,2023-11-20,Running
